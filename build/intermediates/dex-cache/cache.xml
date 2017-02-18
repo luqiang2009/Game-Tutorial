@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b327a1ce33d4cb038afe2d2f2e73dbe977c873d5">
+        <dex dex="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/build/intermediates/pre-dexed/debug/instant-run_5d6b58dd26d40c5448aad94c8a5e8c619c3a0473.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="56ea61fb0c8f4e19b825189c6441d2e577ab0ee5">
+        <dex dex="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d372baeadf9b8af7029d3fba41231a69c239019c.jar" />
+    </item>
+
+</items>

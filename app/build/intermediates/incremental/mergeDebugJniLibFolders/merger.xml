@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/src/main/jniLibs"/><source path="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/libs"><file name="lib.jar" path="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/libs/lib.jar"/></source></dataSet><dataSet config="debug"><source path="/Users/luqiang/Downloads/Jumper Game Tutorial 2/app/src/debug/jniLibs"/></dataSet></merger>
